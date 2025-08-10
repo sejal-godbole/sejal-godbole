@@ -1,6 +1,6 @@
 # Hi there, I'm Sejal!  
 
-CSE Undergrad | ML Enthusiast | Web Developer | Tech for Good  
+CSE AI Undergrad | ML Enthusiast | Web Developer | Tech for Good  
 
 ---
 
