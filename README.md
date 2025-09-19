@@ -107,5 +107,7 @@ I’m a <b>CSE (AI) student at VIIT Pune</b>, currently in my <b>third year of B
 
 <h3 align="center">✨ Let’s connect and build something amazing together 🚀</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="300"/>
+  <img src="https://media2.giphy.com/media/o2HW9Aa1MDqZKGR76B/giphy.gif" width="300"/>
 </p>
+
+
