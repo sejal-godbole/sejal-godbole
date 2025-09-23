@@ -20,7 +20,7 @@ I’m a <b>CSE (AI) student at VIIT Pune</b>, currently in my <b>third year of B
 💻 Passionate about <b>web development</b>, I love exploring modern web technologies and turning real-world problems into scalable applications.  
 🤖 With growing curiosity for <b>Artificial Intelligence</b>, I enjoy experimenting at the intersection of AI and problem-solving.  
 🌱 I’ve worked on <b>Connect Care</b> (AI + Healthcare) and I’m currently building <b>AI Shredder</b>.  
-⚡ Hackathon enthusiast — participated in <b>InnoHack VIT</b> and <b>SIH</b>.  
+⚡ Hackathon enthusiast — participated in <b>InnoHack VIT</b>  <b></b>.  
 </p>
 
 ---
