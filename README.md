@@ -53,7 +53,7 @@ I’m a <b>CSE (AI) student at VIIT Pune</b>, currently in my <b>third year of B
 
 - 🤖 AI-powered projects like **AI Shredder**  
 - 💡 Building solutions at the intersection of **AI and Healthcare**  
-- 🚀 Participating in **Hackathons (InnoHack VIT, SIH)**  
+- 🚀 Participating in **Hackathons (InnoHack VIT)**  
 - 🌱 Exploring **scalable full-stack architectures**  
 
 ---
