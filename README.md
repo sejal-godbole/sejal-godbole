@@ -1,4 +1,4 @@
-<!-- <p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sejal+Godbole;Full-Stack+Developer+💻;AI+Enthusiast+🤖" alt="Typing SVG" />
 </p>
 
@@ -110,4 +110,4 @@ I’m a <b>CSE (AI) student at VIIT Pune</b>, currently in my <b>third year of B
   <img src="https://media2.giphy.com/media/o2HW9Aa1MDqZKGR76B/giphy.gif" width="300"/>
 </p>
 
- -->
+
