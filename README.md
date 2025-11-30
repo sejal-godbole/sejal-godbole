@@ -11,7 +11,7 @@ A **CSE–AI student at VIIT** passionate about **Full Stack Web Development** �
 - 🔗 LinkedIn: [**Sejal Godbole**](https://www.linkedin.com/in/sejal-godbole/)  
 - 🏆 LeetCode Profile: [**sejal_godbole**](https://leetcode.com/u/sejal_godbole/)
 
----
+
 
 ### 🛠️ Languages & Technologies  
 
@@ -21,14 +21,6 @@ A **CSE–AI student at VIIT** passionate about **Full Stack Web Development** �
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-
----
-
-### 📊 GitHub Stats  
-
-[![Sejal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/sejal-godbole.git&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/sejal-godbole)  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sejal-godbole&layout=compact&theme=dark&hide_border=true)](https://github.com/sejal-godbole)
 
 ---
 
@@ -46,6 +38,6 @@ A **CSE–AI student at VIIT** passionate about **Full Stack Web Development** �
     </a>
 </p>
 
----
+
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect.*
