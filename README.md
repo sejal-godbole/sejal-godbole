@@ -1,40 +1,38 @@
 ## Hi there, I'm **Sejal Godbole** 👋
 
-A CSE-AI student at VIIT, interested in Full Stack Web development ⚛️ and Machine Learning 🧠.
+A **CSE–AI student at VIIT** passionate about **Full Stack Web Development** ⚛️ and **Machine Learning** 🧠.
 
-* 💻 Full Stack Development Enthusiast (MERN, Next.js)
-* 🧠 Currently applying skills in **C++, Python, and AI/ML models**.
-* 🌟 **What I believe:** I am very hardworking and persistent, and always try to learn something new to make myself productive.
-* How to reach me: **Email** - sejalgodbole02@gmail.com or **LinkedIn** - @sejal-godbole
-* 🏆 **LeetCode Rank:** See my progress here: [sejal-godbole](https://leetcode.com/sejal-godbole)
-
-### Languages:
-
-<a href="#">
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
-<a href="#">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-<a href="#">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
-<a href="#">
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
-<a href="#">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-</a>
-<a href="#">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
+### 🚀 About Me  
+- 💻 Full Stack Development Enthusiast (MERN, Next.js)  
+- 🧠 Currently working with **C++, Python, AI/ML models**, and real-world tech projects  
+- 🌱 Always exploring new skills to improve productivity and creativity  
+- ⭐ Strong believer in **hard work, consistency, and lifelong learning**  
+- 📬 Reach me anytime: **sejalgodbole02@gmail.com**  
+- 🔗 LinkedIn: [**Sejal Godbole**](https://www.linkedin.com/in/sejal-godbole/)  
+- 🏆 LeetCode Profile: [**sejal_godbole**](https://leetcode.com/u/sejal_godbole/)
 
 ---
 
-[![Sejal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejal-godbole&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/sejal-godbole)
+### 🛠️ Languages & Technologies  
+
+<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+
+---
+
+### 📊 GitHub Stats  
+
+[![Sejal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/sejal-godbole.git&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/sejal-godbole)  
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sejal-godbole&layout=compact&theme=dark&hide_border=true)](https://github.com/sejal-godbole)
 
-Profile views **[Insert Views Count Here]** ### 💖 Connect with Me
+---
+
+### 💖 Connect With Me  
 
 <p align="left">
     <a href="https://www.linkedin.com/in/sejal-godbole">
@@ -47,3 +45,7 @@ Profile views **[Insert Views Count Here]** ### 💖 Connect with Me
         <img alt="Email" src="https://img.shields.io/badge/Email-sejalgodbole02@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
 </p>
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect.*
