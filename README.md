@@ -10,7 +10,7 @@ A **CSE–AI student at VIIT** passionate about **Full Stack Web Development** �
 - 📬 Reach me anytime: **sejalgodbole02@gmail.com**  
 - 🔗 LinkedIn: [**Sejal Godbole**](https://www.linkedin.com/in/sejal-godbole/)  
 - 🏆 LeetCode Profile: [**sejal_godbole**](https://leetcode.com/u/sejal_godbole/)
-- 🔗 Portfolio: [**Sejal Godbole**]((https://sejal-sampat-godbole.vercel.app/)) 
+- 🔗 Portfolio: [**Sejal Godbole**](https://sejal-sampat-godbole.vercel.app/)
 
 
 
