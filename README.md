@@ -1,6 +1,6 @@
 ## Hi there, I'm **Sejal Godbole** 👋
 
-*A **CSE–AI student at VIIT** passionate about **Machine Learning, Generative AI, and Agentic AI** 🧠🤖.*
+A **CSE–AI student at VIIT** passionate about **Machine Learning, Generative AI, and Agentic AI** 🧠🤖.
 
 ### 🚀 About Me
 
@@ -11,10 +11,10 @@
 * 🌱 Always exploring new skills to improve productivity and creativity
 * ⭐ Strong believer in **hard work, consistency, and lifelong learning**
 * 📬 Reach me anytime: **[sejalgodbole02@gmail.com](mailto:sejalgodbole02@gmail.com)**
-* 🔗 LinkedIn: **Sejal Godbole**
-* 🏆 LeetCode Profile: **sejal_godbole**
-* 📊 Codolio Profile: **Sejal Godbole**
-* 🔗 Portfolio: **Sejal Godbole**
+* 🔗 LinkedIn: **[Sejal Godbole](https://www.linkedin.com/in/sejal-godbole/)**
+* 🏆 LeetCode Profile: **[sejal_godbole](https://leetcode.com/u/sejal_godbole/)**
+* 📊 Codolio Profile: **[Sejal Godbole](YOUR_CODOLIO_PROFILE_LINK)**
+* 🔗 Portfolio: **[Sejal Godbole](https://sejal-sampat-godbole.vercel.app/)**
 
 ### 🛠️ Languages & Technologies
 
@@ -25,18 +25,21 @@
 ### 💖 Connect With Me
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/sejal-godbole">
+    <a href="https://www.linkedin.com/in/sejal-godbole/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sejal%20Godbole-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/sejalgodbole_">
+    <a href="https://www.instagram.com/sejalgodbole_/">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-sejalgodbole_-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
     </a>
     <a href="mailto:sejalgodbole02@gmail.com">
         <img alt="Email" src="https://img.shields.io/badge/Email-sejalgodbole02@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.postman.com/">
+    <a href="https://www.postman.com/sejal-godbole">
         <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+    </a>
+    <a href="https://codolio.com/profile/sejal-godbole">
+        <img alt="Codolio" src="https://img.shields.io/badge/Codolio-4A90E2?style=flat-square"/>
     </a>
 </p>
 
-⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect.*
+⭐ *Thanks for visiting my profile! Feel free to explore my AI projects and connect.*
