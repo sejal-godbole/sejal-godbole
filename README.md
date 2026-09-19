@@ -14,7 +14,7 @@ A **CSE–AI student at VIIT** passionate about **Machine Learning, Generative A
 * 🔗 LinkedIn: **[Sejal Godbole](https://www.linkedin.com/in/sejal-godbole/)**
 * 🏆 LeetCode Profile: **[sejal_godbole](https://leetcode.com/u/sejal_godbole/)**
 * 📊 Codolio Profile: **[Sejal Godbole](YOUR_CODOLIO_PROFILE_LINK)**
-* 🔗 Portfolio: **[Sejal Godbole](https://sejal-sampat-godbole.vercel.app/)**
+* 🔗 Portfolio: **[Sejal Godbole](https://portfolio-livid-eight-65.vercel.app/)**
 
 ### 🛠️ Languages & Technologies
 
